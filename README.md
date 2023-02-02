@@ -1,0 +1,1 @@
+This project will be to create a very basic website that shows a number of recipes. i will have to use basic HTML to create all of the information as well as links to other pages or external sites. 

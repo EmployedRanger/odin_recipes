@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(128, 148, 177);
+}
+
+.header {
+    background-color: grey;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+
+    text-align: center;
+    padding: 10px 10px;
+    cursor: pointer;
+    background-color: white;
+    display: inline-block;
+    margin: 4px 2px;
+    border: none;
+}
